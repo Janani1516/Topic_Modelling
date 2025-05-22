@@ -1,0 +1,6 @@
+pandas
+nltk
+gensim
+streamlit
+matplotlib
+pyLDAvispip
